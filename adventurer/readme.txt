@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-A theme for travelers, writers and photographers.
+A theme for travelers, writers and photographers. It's also for every human being!
 
 == Changelog ==
 
